@@ -11,11 +11,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "url": "https://github.com/ixamp/gulp-webp-in-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ixamp/gulp-webp-in-html/issues"
+  },
+  "homepage": "https://github.com/ixamp/gulp-webp-in-html#readme",
   "keywords": [
     "gulp",
     "webp",
     "html"
   ],
-  "author": "TigroWeb",
+  "author": "Ixamp",
   "license": "MIT"
 }
