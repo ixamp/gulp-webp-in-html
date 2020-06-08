@@ -1,0 +1,21 @@
+{
+  "name": "gulp-webp-in-html",
+  "version": "1.0.0",
+  "description": "Replaces the <img> tag with <picture> <source> <img> in HTML files",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "webp",
+    "html"
+  ],
+  "author": "TigroWeb",
+  "license": "MIT"
+}
